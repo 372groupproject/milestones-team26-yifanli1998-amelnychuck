@@ -1,0 +1,6 @@
+Wikipedia discuss the language, matlab,in depth. https://en.wikipedia.org/wiki/MATLAB
+https://www.mathworks.com/help/matlab/  This Website include anything you need to learn matlab, it's offcial documentation and reference of matlab.
+Book of Matlab: Matlab Primer           https://www.mathworks.com/help/releases/R2014b/pdf_doc/matlab/getstart.pdf 
+Stack Overflow has community which can solve matlab problems. 
+Complier : Matlab R2019b
+Project: CSC477/577 Project  Computer vision.
