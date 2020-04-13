@@ -1,0 +1,7 @@
+This is a plan for our program in CSc372.
+
+We plan to implement a image or several images, which can be read as matrix in matlab.
+We expect the program have the functions that change the RBG value of the image,edit the image matrix, maybe we can transfer a image from 3D to 2D.
+we expect the program going to be about 200 lines code.
+We think this program will be a good illustration of the language our matlab since only matlab can deal matrix in such a convenient way, not other languages can do this.
+Our program shows how interesting can handling matrix in matlab.
