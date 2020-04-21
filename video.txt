@@ -1,0 +1,5 @@
+The general theme of the video is show how our program can change the image.
+THe idea is we change the matrix of input image to change the RGB value of the matrix, then change the figure.
+I want to show the code which can blurry the image.
+I will change the style of several image and dim some intesting image.
+We have not determine the specific way to shoot it, but I think the PowerPoint is a better choice. We will show how the program influence the image.
